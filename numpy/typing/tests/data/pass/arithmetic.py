@@ -9,6 +9,7 @@ i8 = np.int64(1)
 u8 = np.uint64(1)
 
 c8 = np.complex64(1)
+c8_i = np.complex64(1j)
 f4 = np.float32(1)
 i4 = np.int32(1)
 u4 = np.uint32(1)
